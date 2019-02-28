@@ -25,7 +25,7 @@ CDを購入できるECsite
 #### 開発期間  
 2019/02/01~2019/02/28
 #### 開発環境
-OS: NEC VersaPRO Window7  
+OS: NEC VersaPRO Window10  
 統合開発環境:Eclips4.6.3  
 データベース:Mysql  
 使用言語: JAVA  
